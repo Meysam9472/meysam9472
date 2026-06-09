@@ -37,6 +37,7 @@ I am an experienced Software Engineer with over **10 years** of expertise in des
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
+---
 
 ### 📈 Highlighted Projects & Achievements
 - **Stock Price Prediction:** Improved accuracy using Scikit-learn and Keras models.
