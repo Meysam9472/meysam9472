@@ -1,7 +1,7 @@
 # Hi there, I'm Meysam Mehmannavaz 👋
 ### Senior Python Developer | AI & Backend Enthusiast
 
-I am an experienced Software Engineer with over **10 years** of expertise in designing and developing robust software solutions. My core focus is on **Python**, specializing in **AI integration** and **high-performance back-end systems**. I am passionate about solving complex real-world problems with practical, scalable solutions.
+I am an experienced Software Engineer with over **10 years** of expertise in designing and developing robust software solutions. My core focus is on **Python**, specializing in **AI integration** and **high-performance back-end systems**.
 
 ---
 
@@ -22,11 +22,9 @@ I am an experienced Software Engineer with over **10 years** of expertise in des
 **Backend Frameworks:**
 ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 **AI, Machine Learning & Data:**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -57,7 +55,6 @@ I am an experienced Software Engineer with over **10 years** of expertise in des
 
 ### 📫 Connect with me:
 - **LinkedIn:** [linkedin.com/in/meysam-mehmannavaz](https://linkedin.com/in/meysam-mehmannavaz)
-- **Email:** meysammehmannavaz94@gmail.com
 
 ---
 *“Passionate about turning complex data into practical solutions.”*
