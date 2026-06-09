@@ -38,6 +38,20 @@ I am an experienced Software Engineer with over **10 years** of expertise in des
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=meysam9472&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Meysam's GitHub Stats" height="192px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meysam9472&layout=compact&theme=radical&hide=html,css" alt="Top Languages" height="192px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meysam9472&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+
 
 ### 📈 Highlighted Projects & Achievements
 - **Stock Price Prediction:** Improved accuracy using Scikit-learn and Keras models.
